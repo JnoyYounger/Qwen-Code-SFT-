@@ -89,7 +89,3 @@ Qwen-Code-SFT/
 - 基座模型权重：遵循 [Qwen1.5 官方协议](https://github.com/QwenLM/Qwen1.5/blob/main/Tongyi_License.pdf)
 
 ---
-
-## 📧 联系我们
-有问题请直接提 [Issue](https://github.com/your-username/Qwen-Code-SFT/issues) 或 Discussion，维护者会在 24 h 内回复！
-```
