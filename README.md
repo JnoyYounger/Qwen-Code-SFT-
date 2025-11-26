@@ -61,9 +61,9 @@ python src/inference.py \
 
 ### 一键训练（双卡示例）
 ```bash
-bash scripts/run_train.sh
+bash scripts/run.sh
 ```
-脚本已写好 accelerate 参数，默认 2 卡 DDP，2500 steps ≈ 1.5 小时 完成。
+脚本已写好 accelerate 参数，默认 8 卡 DDP，2500 steps ≈ 5 小时 完成。
 
 ---
 
