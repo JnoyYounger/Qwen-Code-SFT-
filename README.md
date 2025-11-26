@@ -59,7 +59,7 @@ python src/inference.py \
 ```
 放入 `data/YourDataset.jsonl` 即可。
 
-### 一键训练（双卡示例）
+### 一键训练
 ```bash
 bash scripts/run.sh
 ```
