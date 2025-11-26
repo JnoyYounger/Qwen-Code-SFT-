@@ -31,7 +31,7 @@
 
 ### 2. 安装
 ```bash
-git clone https://github.com/your-username/Qwen-Code-SFT.git
+git clone https://github.com/JnoyYounger/Qwen-Code-SFT-.git
 cd Qwen-Code-SFT
 
 conda create -n qwen-sft python=3.10 -y
